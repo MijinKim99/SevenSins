@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Scene0.unity
+    guid: addff61618e8c4db1aaba909c8db0213
+  - enabled: 1
+    path: Assets/Scenes/Scene1.unity
+    guid: a0b27c62ed8ea444e86f65ca34edbd8b
+  - enabled: 1
+    path: Assets/Scenes/Scene2(LX).unity
+    guid: 423e771989eb049aa8922ced34ddba5d
+  - enabled: 1
+    path: Assets/Scenes/Scene3.unity
+    guid: 260649ab5368d4ffbaacb6ec8ef1e627
+  - enabled: 1
+    path: Assets/Scenes/Scene4(RED1).unity
+    guid: 6b337e192ab844eb8bf7fdae049d873c
+  - enabled: 1
+    path: Assets/Scenes/Scene5(DoorOpen).unity
+    guid: 2fc7ffa8d836a431fb471339292ce26a
+  - enabled: 1
+    path: Assets/Scenes/Scene6(MRDialogues).unity
+    guid: c259fcff0748d4f4a8836ebc9df48587
+  - enabled: 1
+    path: Assets/Scenes/Scene7(MRSelect).unity
+    guid: 759061e533bbb4756b23f525a58c1681
+  - enabled: 1
+    path: Assets/Scenes/Scene8(MRD2).unity
+    guid: c6a7715a1bd404629bef4954abf83121
+  - enabled: 1
+    path: Assets/Scenes/Scene9(MRS2).unity
+    guid: 47aa97e90300b451fb5f45785adda4f3
+  - enabled: 1
+    path: Assets/Scenes/Scene10(MRD3).unity
+    guid: 3f88ac43f51ca4ef7b6b9f72c9b0ba6c
+  - enabled: 1
+    path: "Assets/Scenes/Scene11(MR\uC870\uC0AC).unity"
+    guid: ae37fbdd7745e4a6c9d867f1bba3d643
+  - enabled: 1
+    path: Assets/Scenes/Scene12(D1EndMRDialogues).unity
+    guid: 7abddb5721ee54d9b952d8a0839866ea
+  - enabled: 1
+    path: Assets/Scenes/Scene13(D2D1).unity
+    guid: b43829157aac648998bc4ffb62d6dd4b
+  - enabled: 1
+    path: Assets/Scenes/Scene14(D2RE).unity
+    guid: b3be68fb17baa49288d63721679d9b32
+  - enabled: 1
+    path: Assets/Scenes/Scene15(D2DO).unity
+    guid: db664deff3d5d499c8339023c82d5007
+  - enabled: 1
+    path: "Assets/Scenes/Scene16(\uAD11\uCCA0\uB300\uD654).unity"
+    guid: 1bf8ca70ffeff4474962fcdcba828ffa
+  - enabled: 1
+    path: Assets/Scenes/Scene17(Die).unity
+    guid: ef9aed9bcad4b425ca1225866e7d4b93
+  - enabled: 1
+    path: Assets/Scenes/Scene18.unity
+    guid: 197ac6d45cc9b034aa66cb9ea31b18d5
+  - enabled: 1
+    path: Assets/Scenes/Scene19(End).unity
+    guid: c89a6327585f64b33b72ef75c1f8020a
+  m_configObjects: {}
